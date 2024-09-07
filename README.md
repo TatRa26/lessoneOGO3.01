@@ -21,5 +21,5 @@
 - [Pygame](https://www.pygame.org/news) — библиотека для разработки игр на языке Python, используемая в создании этой игры.
 - [Документация Pygame](https://www.pygame.org/docs/) — официальный источник информации о функционале и возможностях Pygame.
 - [это ссылка на файл img] ( Поймай снежинку.JPG)
-- ![content_7.jpg](img%2Fcontent_7.jpg)
+- !![content7.jpg](img%2Fcontent7.jpg)
 - ![Поймай снежинку.JPG](img%2F%D0%9F%D0%BE%D0%B9%D0%BC%D0%B0%D0%B9%20%D1%81%D0%BD%D0%B5%D0%B6%D0%B8%D0%BD%D0%BA%D1%83.JPG)
