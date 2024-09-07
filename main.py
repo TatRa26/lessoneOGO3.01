@@ -8,7 +8,7 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
-pygame.display.set_caption("Игра Тир")
+pygame.display.set_caption("Игра Поймай  снежинку")
 icon = pygame.image.load("img/content_7.jpg")
 pygame.display.set_icon(icon)
 
@@ -24,7 +24,7 @@ game_time = 30
 
 def show_start_screen():
     screen.fill((0, 0, 0))
-    title_text = font.render("Добро пожаловать в Игру Тир!", True, (255, 255, 255))
+    title_text = font.render("Добро пожаловать в Игру Поймай снежинку!", True, (255, 255, 255))
     instruction_text = font.render("Нажмите любую клавишу для начала", True, (255, 255, 255))
     screen.blit(title_text, (SCREEN_WIDTH // 2 - title_text.get_width() // 2, SCREEN_HEIGHT // 3))
     screen.blit(instruction_text, (SCREEN_WIDTH // 2 - instruction_text.get_width() // 2, SCREEN_HEIGHT // 2))
